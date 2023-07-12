@@ -14,3 +14,18 @@ A sliding window analysis was performed using The MethylationArrayScanner and En
 Only regions meeting stringent Log2fold and Wilcoxon FDR benchmarks were selected for further analysis. Barplots were generated demonstrating methylation differences at each region between test and control groups. 
 <img width="929" alt="Screen Shot 2023-07-12 at 10 35 05 AM" src="https://github.com/carternorton11/placenta-methylation/assets/99043737/14bfc023-dd25-40db-af4a-269de278db30">
 
+## GREAT Analysis
+The Genomic Regions Enrichment of Annotations Tool (GREAT - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840234/ ) was used to probe for any biological significant pathways associated with the regions of interest. Two biological pathways and one cellular component were identified for the PE regions. 
+
+<img width="875" alt="PE GREAT( 40)" src="https://github.com/carternorton11/placenta-methylation/assets/99043737/4eb18689-5ea4-41cc-af16-c251d5bffeaa">
+
+<img width="826" alt="PE GREAT2( 40)" src="https://github.com/carternorton11/placenta-methylation/assets/99043737/831c6dc3-82c9-414a-83e6-b8c994b27ab4">
+
+## Checking Correlation with Maternal Age and Gestational Age
+Correlation analyses were performed to check for possible confounding by maternal and/or gestational age. 
+
+![New_Fig4](https://github.com/carternorton11/placenta-methylation/assets/99043737/dc445cbd-739e-4211-9745-a63e10309bdb)
+
+
+
+
