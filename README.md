@@ -12,7 +12,8 @@ IDAT files were SWAN normalized to beta values using the Minfi package in R. Den
 ## USEQ Analysis
 A sliding window analysis was performed using The MethylationArrayScanner and EnrichedRegionMaker from the Useq toolkit.(https://github.com/HuntsmanCancerInstitute/USeq)
 Only regions meeting stringent Log2fold and Wilcoxon FDR benchmarks were selected for further analysis. Barplots were generated demonstrating methylation differences at each region between test and control groups. 
-<img width="929" alt="Screen Shot 2023-07-12 at 10 35 05 AM" src="https://github.com/carternorton11/placenta-methylation/assets/99043737/14bfc023-dd25-40db-af4a-269de278db30">
+<img width="985" alt="Screen Shot 2023-07-12 at 12 03 44 PM" src="https://github.com/carternorton11/placenta-methylation/assets/99043737/bbbc1ef4-4adc-431e-b9fe-5b15fed9dd46">
+
 
 ## Circos Plot
 I generated a Circos plot to show the distribution of differentially methylated regions across the methylome. 
