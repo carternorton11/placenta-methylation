@@ -34,6 +34,11 @@ mergedcsv$Sample_Name <- NULL
 saveRDS(mergedcsv, "___") 
 mergedcsv <- readRDS("___")
 
+#Heatmap
+library(gplots)
+library(RColorBrewer)
+heatmap(mergedcsv, col = colorRampPalette(brewer.pal(9, ""))(256), scale="none", margins=c(10,10))
+
 #load EPIC annotation
 epic.ann <- readRDS("____Epic_Annotation.rds")
 tmerged <- t(mergedcsv)
