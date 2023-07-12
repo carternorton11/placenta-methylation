@@ -22,9 +22,9 @@ The Genomic Regions Enrichment of Annotations Tool (GREAT - https://www.ncbi.nlm
 <img width="826" alt="PE GREAT2( 40)" src="https://github.com/carternorton11/placenta-methylation/assets/99043737/831c6dc3-82c9-414a-83e6-b8c994b27ab4">
 
 ## Checking Correlation with Maternal Age and Gestational Age
-Correlation analyses were performed to check for possible confounding by maternal and/or gestational age. 
+Correlation analyses were performed to check for possible confounding of methylation on genes of interest by maternal and/or gestational age. 
 
-![New_Fig4](https://github.com/carternorton11/placenta-methylation/assets/99043737/dc445cbd-739e-4211-9745-a63e10309bdb)
+<img width="783" alt="Screen Shot 2023-07-12 at 10 46 37 AM" src="https://github.com/carternorton11/placenta-methylation/assets/99043737/8d42d662-3640-4c95-a099-71d064ac7c95">
 
 
 
