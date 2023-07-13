@@ -17,6 +17,7 @@ Only regions meeting stringent Log2fold and Wilcoxon FDR benchmarks were selecte
 
 ## Circos Plot
 I generated a Circos plot to show the distribution of differentially methylated regions across the methylome. 
+
 ![Circos](https://github.com/carternorton11/placenta-methylation/assets/99043737/3b25003f-4970-433a-bb55-48078fcaaa7a)
 
 
